@@ -1,7 +1,4 @@
-// function add(a,b) {
-//   return result
-//}
-
-function add() {
-  (1+2)
+function add(a,b) {
+  return a+b 
 }
+
