@@ -1,4 +1,4 @@
-// function add(a,b) {
-//   return answer
-// }
+ function add(a,b) {
+   return result
+}
 
