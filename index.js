@@ -15,5 +15,5 @@ function divide(a,b) {
 }
 
 function inc(a) {
-  return inc(a)
+  return a + 1
 }
